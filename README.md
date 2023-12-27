@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandrajput09&label=Profile%20views&color=0e75b6&style=flat" alt="anandrajput09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandrajput09" alt="anandrajput09" /></a> </p>
-
 - 🔭 I’m currently working on **ASP.NET Core**
 
 - 🌱 I’m currently learning **ReactJS,Flutter,Advance JAVA**
